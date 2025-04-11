@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/chart.js": "^2.9.41",
+    "@types/cheerio": "^0.22.35",
+    "@types/node": "^22.14.0",
+    "axios": "^1.8.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.8",
+    "chartjs-node-canvas": "^5.0.0",
+    "cheerio": "^1.0.0"
+  }
+}
